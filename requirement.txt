@@ -1,6 +1,3 @@
-pip install -r requirements.txt
-
-
 ultralytics==8.1.0      # YOLOv8 official package
 opencv-python==4.9.0.80 # OpenCV for video/image handling
 numpy==1.26.4           # Array operations
